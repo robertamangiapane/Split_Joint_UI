@@ -1,2 +1,3 @@
 # Split_Joint_UI
-An example of scripting Python for Maya
+
+A simple UI, which works with a selected joint and enables users to split it in given segments.
